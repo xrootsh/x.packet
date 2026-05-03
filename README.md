@@ -20,5 +20,4 @@ ties, this repository serves as a lab notebook for my technical findings.
 ​🔗 Connect with Me
 ​Instagram: @xroot.sh - Daily insights and visual glitch art from the lab.
 ​Email: ethicalhacker.x.official@gmail.com
-​"In the world of cybersecurity, every packet tells a story. My job is to listen."
-
+​"In the wo
