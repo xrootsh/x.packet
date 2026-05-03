@@ -1,23 +1,22 @@
-# x.packet
-Every packet has a story. Tracking my journey in Network Security.
-​🛡️ x.packet | Decode. Defuse. Defend.
-​Welcome to the official repository of x.packet. This space is dedicated to my journey as an Ethical Hacking student, focusing on the deep analysis of network traffic and cybersecurity fundamentals.
+# 🛡️ x.packet | Decode. Defuse. Defend.
 
-​🌐 About the Project
-​x.packet is a research-driven project where I explore the stories hidden within data packets. From understanding handshakes to identifying vulnerabili
-ties, this repository serves as a lab notebook for my technical findings.
+Welcome to the official repository of **x.packet**. This space is dedicated to my journey as an Ethical Hacking student, focusing on the deep analysis of network traffic and cybersecurity fundamentals.
 
-​🎯 Current Focus
-​Network Security: Deep dive into Ports and Protocols.
-​Packet Analysis: Capturing and decoding traffic to understand network behavior.
-​CEH Preparation: Documenting my progress toward becoming a Certified Ethical Hacker.
+## 🌐 About the Project
+**x.packet** is a research-driven project where I explore the stories hidden within data packets. From understanding handshakes to identifying vulnerabilities, this repository serves as a lab notebook for my technical findings.
 
-​🛠️ Tools & Tech
-​Network: Wireshark, Nmap, TCPDump.
-​Security: Kali Linux, Proton VPN.
-​Branding: Visual identity by xprotocols.in.
+## 🎯 Current Focus
+* **Network Security:** Deep dive into Ports and Protocols.
+* **Packet Analysis:** Capturing and decoding traffic to understand network behavior.
+* **CEH Preparation:** Documenting my progress toward becoming a Certified Ethical Hacker.
 
-​🔗 Connect with Me
-​Instagram: @xroot.sh - Daily insights and visual glitch art from the lab.
-​Email: ethicalhacker.x.official@gmail.com
-​"In the wo
+## 🛠️ Tools & Tech
+* **Network:** Wireshark, Nmap, TCPDump.
+* **Security:** Kali Linux, Proton VPN.
+* **Branding:** Visual identity by **xprotocols.in**.
+
+## 🔗 Connect with Me
+* **Instagram:** [@xroot.sh](https://www.instagram.com/xroot.sh)
+* **Email:** ethicalhacker.x.official@gmail.com
+
+> *"In the world of cybersecurity, every packet tells a story. My job is to listen."*
